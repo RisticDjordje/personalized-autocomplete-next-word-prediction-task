@@ -6,8 +6,8 @@ This project is the result of my semester-long exploration into next word predic
 
 This project is divided into three major subprojects, each progressively more complex and powerful:
 
-1. **Stacked LSTMs:** 
-2. **Sequence-to-Sequence with Attention and LSTMs:** 
+1. **Stacked LSTMs** 
+2. **Sequence-to-Sequence with Attention and LSTMs** 
 3. **GPT-2:** In this final project, I've implemented GPT-2 from scratch. and this is where things get truly intriguing and intricate.
 
 ## Navigating the Repository
